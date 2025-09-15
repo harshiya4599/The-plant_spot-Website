@@ -1,11 +1,7 @@
 
 body{
  background-image: url('template\ with\ light\ .png');
-
-
  background-repeat: no-repeat;
-
-
 }
 .container{
 position:absolute;
@@ -73,4 +69,5 @@ input{
     }
 
     
+
 
